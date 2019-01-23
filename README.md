@@ -14,7 +14,7 @@ In this screenshot the projectile has been fired at the wall behind the guard. H
 
 ![](three.png)
 
-With the guard disctracted the player is able to move in and collect the objective. Once picked up the objective emits an orange smoke and the onjective text on screen changes. 
+With the guard disctracted the player is able to move in and collect the objective. Once picked up the objective emits an orange smoke and the objective text on screen changes. 
 
 The guard will turn around if the player moves too close or several seconds after hearing the projectile.
 
