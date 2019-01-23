@@ -22,4 +22,4 @@ The guard will turn around if the player moves too close or several seconds afte
 
 Once the objective is collected the player can move to a designated extraction site while avoiding the guards sight lines. If the player grabs the objective and reaches the extraction site unseen the game is successfully completed.
 
-This project was based on the online course: [Unreal Engine 4 Mastery: Create Multiplayer Games with C++](https://www.udemy.com/unrealengine-cpp/?couponCode=EGTL1099)
+This project was created using the online course: [Unreal Engine 4 Mastery: Create Multiplayer Games with C++](https://www.udemy.com/unrealengine-cpp/?couponCode=EGTL1099)
