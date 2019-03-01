@@ -1,9 +1,7 @@
 # CPP-Stealth-Game
-This game is a first person stealth game, developed using C++ in Visual Studio and Unreal Engine 4
-
 All C++ files I worked with can be found in the public and private files inside CPP-Stealth-Game/Source/FPSGame/
 
-The objective of the game is to distract the guard, collect the objective, and return the objective to an extraction zone.
+This game is a first person stealth game, developed using C++ in Visual Studio and Unreal Engine 4. The objective of the game is to distract the guard, collect the objective, and return the objective to an extraction zone.
 
 ![](one.png)
 The guard is seen here on the right. The character has a weapon that fires projectiles that make a sound when bouncing off the surface of an object.
